@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: clshen@hust.edu.cn
 - 😄 Pronouns: lay.
 
-![Starrylay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starrylay&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starrylay&layout=compact)
+![Starrylay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starrylay&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starrylay&layout=compact)
