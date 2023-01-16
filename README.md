@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on IIR Lab in GSAI, Renmin University of China.
 - 🌱 I’m currently learning recommender systems.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about fun experiences in HUST.
 - 📫 How to reach me: clshen@hust.edu.cn
 - 😄 Pronouns: lay.
