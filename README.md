@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starrylay&layout=compact)](https://github.com/Starrylay/github-readme-stats)
+[![Mumuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starrylay&show_icons=true&count_private=true&theme=vue-dark)](https://passer-by.com/)
