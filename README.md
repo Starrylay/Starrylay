@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: lay.
 
 <a href="Starrylay's GitHub stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Starrylay&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Starrylay&show_icons=true" />
 </a>
 <a href="Top Langs">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starrylay&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starrylay&layout=compact" />
 </a>
