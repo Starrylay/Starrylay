@@ -9,5 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about fun experiences in HUST.
 - 📫 How to reach me: clshen@hust.edu.cn
 - 😄 Pronouns: lay.
+
 ![Starrylay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starrylay&show_icons=true&theme=radical)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starrylay&layout=compact)](https://github.com/Starrylay/Starrylay) -->
